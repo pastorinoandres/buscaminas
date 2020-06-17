@@ -1,0 +1,5 @@
+export { default as Welcome } from './Welcome'
+export { default as Saved } from './Saved'
+export { default as Levels } from './Levels'
+export { default as Game } from './Game'
+export { default as Settings } from './Settings'

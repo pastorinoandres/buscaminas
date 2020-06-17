@@ -1,0 +1,11 @@
+export { default as Arrow } from './Arrow';
+export { default as Bomb } from './Bomb';
+export { default as Flag } from './Flag';
+export { default as GitHub } from './GitHub';
+export { default as Header } from './Header';
+export { default as Logo } from './Logo';
+export { default as Question } from './Question';
+export { default as Settings } from './Settings';
+export { default as Table } from './Table';
+export { default as Timer } from './Timer';
+export { default as Linkedin } from './Linkedin'
