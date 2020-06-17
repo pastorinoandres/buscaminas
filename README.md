@@ -1,5 +1,5 @@
 # Buscaminas
-#### Juego de logica y azar
+#### Juego de lógica y azar
 
 Librerias implementadas:
 * React Navigation
@@ -15,8 +15,13 @@ Librerias implementadas:
 `npm install` para instalar todas las dependencias.
 `expo start`  para iniciar el servidor
 
+## Aclaración
+La aplicación fue testeada solo con un Iphone XS Max, sin embargo deberia poder funcionar sin problemas en cualquier dispositivo.
+Preferentemente probar con IOS.
+
 ## Para visualizar
 * Descargar Expo Client para verlo en el celular de manera rapida.
+Link de expo: https://expo.io/@pastorinoandres/minesweeper
 
 ## Guia de diseño UI_UX
 https://www.figma.com/file/k7d4yJ6pkOgmVUhFpwjyfG/Buscaminas?node-id=7%3A478
